@@ -10,9 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=suragdas9&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=suragdas9&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
