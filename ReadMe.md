@@ -1,5 +1,5 @@
 # 💫 About Me:
-  🚀 16-year-old Founder & Builder | CEO of TUI (Tru Urban Innovations)<br><br>-🔭 I’m currently building **, a privacy-first social networking platform. & Toda OS<br>- 🌱 I’m currently learning **Advanced Dart & Backend Architecture**.<br>- 🚀 My goal: Get into SRCC / SSCBS and scale TUI into a multi-brand tech company.
+  🚀 16-year-old Builder <br><br>-🔭 I’m currently building **, a privacy-first social networking platform. & Toda OS<br>- 🌱 I’m currently learning **Advanced Dart & Backend Architecture**.<br>- 🚀 My goal: Get into SRCC / SSCBS and scale TUI into a multi-brand tech company.
 
 
 ## 🌐 Socials:
