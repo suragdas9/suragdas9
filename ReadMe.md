@@ -1,6 +1,5 @@
 # 💫 About Me:
-  🚀 16-year-old Builder. -🔭 I’m currently building **, a privacy-first social networking platform. & Toda OS - 🌱 I’m currently learning **Advanced Dart & Backend Architecture**.<br>- 🚀 My goal: Get into SRCC / SSCBS and scale TUI into a multi-brand tech company.
-
+  🚀 16-year-old Builder. -🔭 I’m currently building **, a privacy-first social networking platform. & Toda OS - 🌱 I’m currently learning **Advanced Dart & Backend Architecture**.<br>- 🚀 My goal: Making Something Real For My Country.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surag_exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surag-das-187004357) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suragdas92@gmail.com) 
